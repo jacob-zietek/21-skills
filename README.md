@@ -16,4 +16,6 @@ Limit Switch: Align
 
 Watch it in action here: https://youtu.be/OzZ0uNVyfQE 
 
+Program written by myself and Jackson Mazer. Shoutout to Jacob Zietek, CJ Achim, and Taran Agnihotri for all the help!
+
 Thanks for reading!! :)
